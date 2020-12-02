@@ -1,0 +1,9 @@
+body {
+    font-family: "Lucida Console", Courier, monospace;
+    text-align: center;
+    background: #ECEDF2;
+}
+
+.features {
+    font-stretch: semi-expanded;
+}
